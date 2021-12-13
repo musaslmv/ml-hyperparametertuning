@@ -1,5 +1,6 @@
 # ml-hyperparametertuning
-ML 2021 group project - hyperparameter tuning effects on validation dataset in terms of overfitting
+ML 2021 group project - team P37
+Hyperparameter tuning effects on validation dataset in terms of overfitting
 
 "Finding the best combination of hyperparameters is called hyperparameter optimization; it is almost impossible to beat state of the art methods without performing hyperparameter optimization. But there are some subtle dangers. Using one algorithm "out-of-the-box" and laboriously tuning hyperparameters for another example leads to an unfair comparison: in general, hyperparameter optimization squeezes out better performance. A better algorithm will in general outperform a worse algorithm, but sometimes, you can find the perfect combination of hyperparameters, which will allow the best-case version of the lesser algorithm to beat an average version of the better algorithm. Choosing the best hyperparameters is like playing with the dials of one amp until you find the perfect sound; It's not really fair to compare the sound of a perfectly-adjusted amplifier with one you use default settings on.
 
